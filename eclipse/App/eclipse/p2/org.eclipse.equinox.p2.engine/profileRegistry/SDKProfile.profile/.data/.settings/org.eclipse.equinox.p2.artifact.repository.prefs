@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+repositories/http\:__download.eclipse.org_eclipse_updates_4.14/count=1
+repositories/http\:__download.eclipse.org_eclipse_updates_4.14/enabled=true
+repositories/http\:__download.eclipse.org_eclipse_updates_4.14/nickname=The Eclipse Project Updates
+repositories/http\:__download.eclipse.org_eclipse_updates_4.14/uri=http\://download.eclipse.org/eclipse/updates/4.14
+repositories/http\:__download.eclipse.org_releases_2019-12/count=1
+repositories/http\:__download.eclipse.org_releases_2019-12/enabled=true
+repositories/http\:__download.eclipse.org_releases_2019-12/nickname=2019-12
+repositories/http\:__download.eclipse.org_releases_2019-12/uri=http\://download.eclipse.org/releases/2019-12

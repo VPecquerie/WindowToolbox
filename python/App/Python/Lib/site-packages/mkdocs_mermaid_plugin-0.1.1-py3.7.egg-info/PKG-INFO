@@ -1,0 +1,22 @@
+Metadata-Version: 1.2
+Name: mkdocs-mermaid-plugin
+Version: 0.1.1
+Summary: A MkDocs plugin that support mermaid graph in markdown file
+Home-page: https://github.com/pugong/mkdocs-mermaid-plugin
+Author: pugong
+Author-email: pugong.liu@gmail.com
+License: MIT
+Description: This is a mkdocs plugin that could enable the mermaid graph in the markdown file.Please follow the instruction in reame to enable this plugin
+Keywords: mkdocs python markdown mermaid
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=2.7

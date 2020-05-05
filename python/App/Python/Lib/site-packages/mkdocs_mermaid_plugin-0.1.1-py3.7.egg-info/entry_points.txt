@@ -1,0 +1,3 @@
+[mkdocs.plugins]
+markdownmermaid = markdownmermaid.plugin:MarkdownMermaidPlugin
+

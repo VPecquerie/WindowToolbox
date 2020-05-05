@@ -1,0 +1,38 @@
+nol
+npm
+npm ls
+npm help npm
+npm install
+eclipse
+echo $JAVA_HOME
+echo %JAVA_HOME%
+java
+echo %PATH%
+java -v
+java -version
+javac -version
+node -v 
+node -v
+npm -v
+vscode
+env
+python -V
+exit
+pip -v
+pip -V
+mkdocs
+ls %PYTHON_HOME%
+ clear
+mkdocs 
+putty
+puttygen
+7zip
+mvn
+npm 
+npm install -g @angular/cli
+clear
+ls
+ng
+code . 
+git status
+git add .

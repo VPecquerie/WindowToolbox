@@ -19,6 +19,7 @@ For the moment thoses apps are include:
 - [7zip](https://www.7-zip.org/)
 - [FileZilla](https://filezilla-project.org/)
 - [JDK 8](https://www.oracle.com/java/)
+- [Gradle](https://gradle.org/)
 - [Keepass](https://keepass.info/)
 - [Maven](https://maven.apache.org/)
 - [Node JS](http://nodejs.org)

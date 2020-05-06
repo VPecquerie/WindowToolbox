@@ -2,6 +2,11 @@
 
 A simple toolbox of windows applications.
 
+## How to use ?
+
+* **Option 1:** Download a Zip: [here](https://github.com/VPecquerie/WindowToolbox/archive/master.zip)
+* **Option 2:** Clone the repository: `git clone https://github.com/VPecquerie/WindowToolbox toolbox`
+
 ## Why ? 
 
 Enterprise developpers are often working on windows environment without administror's right.
@@ -32,4 +37,4 @@ For the moment thoses apps are include:
 2. Create an application wrapper in cmder/bin
 3. Commit changes.
 4. Make a pull request !
-- 
+

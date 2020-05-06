@@ -7,6 +7,10 @@ A simple toolbox of windows applications.
 * **Option 1:** Download a Zip: [here](https://github.com/VPecquerie/WindowToolbox/archive/master.zip)
 * **Option 2:** Clone the repository: `git clone https://github.com/VPecquerie/WindowToolbox toolbox`
 
+Then you can run apps from there .bat aliases (Ex: cmder.bat for CMder).
+In addition, apps can be runned from cmder: 
+Ex: `mvn help`.
+
 ## Why ? 
 
 Enterprise developpers are often working on windows environment without administror's right.
